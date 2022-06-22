@@ -1,2 +1,7 @@
-#Aws has updated new services daily and not every services supported the CloudFormation. So how do we find which services supported CloudFormation. Well,
-Here is the link and the list is there- > https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/aws-template-resource-type-ref.html
+# AWS has updated new services daily and not every services supported the CloudFormation. So how do we find which services supported CloudFormation. Well,
+Here is the link and the list is there
+---- > https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/aws-template-resource-type-ref.html
+
+# If you want to find the YAML is in correct way , 
+
+--- > http://www.yamllint.com/
